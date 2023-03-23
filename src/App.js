@@ -33,7 +33,7 @@ function App() {
     <div className="App">
       <header className="App-header">
 
-        <h1>Box Radius Previewer</h1>
+        <h1>Border Radius Previewer</h1>
 
         <div
           style={{ 
